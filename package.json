@@ -1,6 +1,6 @@
 {
   "name": "hubot-react",
-  "version": "4.1.1",
+  "version": "5.0.0",
   "description": "Train hubot to react to certain terms.",
   "main": "index.js",
   "scripts": {
@@ -22,9 +22,9 @@
     "hubot": "2.x"
   },
   "dependencies": {
-    "underscore": "~1.7.0",
+    "underscore": "~1.8.3",
     "natural": "~0.1.28",
     "moment": "~2.8.3",
-    "msgpack": "~0.2.4"
+    "msgpack": "~1.0.2"
   }
 }
